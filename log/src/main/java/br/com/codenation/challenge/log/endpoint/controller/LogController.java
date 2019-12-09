@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("v1/courses")
+@RequestMapping("v1/logs")
 @Slf4j
 @RequiredArgsConstructor(onConstructor = @__(@Autowired))
 @Api(value = "Endpoints to manage course")

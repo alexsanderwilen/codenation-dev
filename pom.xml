@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>course</module>
+        <module>log</module>
         <module>core</module>
         <module>token</module>
     </modules>
